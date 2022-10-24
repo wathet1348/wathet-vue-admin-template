@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../vue-admin-template-wathet"
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"salarys"
+		]
+	}
+}
